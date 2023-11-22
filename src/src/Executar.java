@@ -8,7 +8,7 @@ package src;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Scanner;
-import javafx.util.Pair;
+import java.util.Pair;
 
 /**
  *
